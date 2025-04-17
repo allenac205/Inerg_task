@@ -12,7 +12,7 @@ A Flask-based API to serve annual oil, gas, and brine production data from a SQL
 ```bash
 git clone https://github.com/allenac205/Inerg_task.git
 
-cd inerg_task
+cd Inerg_task
 ```
 
 2. **Create and activate a virtual environment**
