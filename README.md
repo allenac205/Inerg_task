@@ -10,7 +10,7 @@ A Flask-based API to serve annual oil, gas, and brine production data from a SQL
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/your-username/production-data-api.git
+git clone https://github.com/allenac205/Inerg_task.git
 
 cd inerg_task
 ```
