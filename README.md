@@ -1,4 +1,4 @@
-# inerg_task
+# Inerg_task
 A Flask-based API to serve annual oil, gas, and brine production data from a SQLite database.
 
 ## 🧰 Environment
